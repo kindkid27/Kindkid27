@@ -1,6 +1,6 @@
 Developer at Ghost Network
 
-Head developer of Sunset Network
+Head developer of Aether Network
 
 Founder & Owner of Ben Network, Hosting Haven, Modern Nations, and Boo Gaming Network.
 
