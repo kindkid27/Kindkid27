@@ -1,5 +1,5 @@
 "I Hate Programming!", "Meow!", "I Qualified For The 2025 SkillsUSA Texas State Leadership Conference & Competition For Computer Programming!",
-"My Friends Hate Me!", "I Want To Buy A Cat", "I'm Terrible At Programming!", "Addicted To What The Rick Did", "My Ex's Rat Died, It Was A Really Cool Rat",
+"My Friends Hate Me!", "I Want To Buy A Cat", "I'm Terrible At Programming!", "Addicted To What The Rick Did", "My Ex's Rat Died\, It Was A Really Cool Rat",
 "Walter White X Jesse Pinkman AI Fanfic", "I Have 2 Dogs", "1 Cat 2 Cat Red Cat Blue Cat", "I Think My Mom Know's I'm Gay", "I Am Unemployed",
 "How Do I Cope With Loss", "Sigma Sigma Boy Sigma Boy", "Silly Cat Presentations Go BRRRRRRRRRRRRRRR", "Ghost Is The Best Proxy Fr Fr", 
 "Why Does Rick Molest Woof", "04/02/2029-02/09/2025 Corpus Christi", "Sparkle Sparkle Sparkle",
