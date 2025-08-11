@@ -1,0 +1,283 @@
+/*Code written by Quake #69866.*/
+/*---------------Fonts -> Google fonts preferred---------------*/
+@import url('https://fonts.googleapis.com/css2?family=Gochi+Hand&display=swap');
+body {
+	background: url('https://images.pexels.com/photos/414102/pexels-photo-414102.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+	background-repeat: repeat;
+    background-attachment: fixed;
+    background-position: center; 
+	background-size: auto;
+	font-family: 'Gochi Hand', cursive;
+	color: #000000;
+}
+/*---------------Alerts -> Hunting, Forum Notifs---------------*/
+.alert {
+	background: #efd9f7;
+	border: 1px solid #000000;
+	color: #000000;
+}
+.alert-warning,
+.alert-danger {
+	background: #efd9f7;
+	border: 1px solid #000000;
+	color: #000000;
+}
+/*---------------Links---------------*/
+a:link,
+a:visited {
+	color: #000000 !important;
+	transition: 0.5s !important;
+	text-shadow: 0px 3px 5px rgba(0,0,0,.5);
+}
+/*---------------Link Hovering---------------*/
+a:hover {
+	color: #ffe8fb !important;
+}
+/*---------------Header Color -> King Name/Title, Mutations in Pride---------------*/
+.top {
+	background: #8D60A2 !important;
+	color: #000000 !important;
+	border-top-left-radius: 25px;
+	border-top-right-radius: 25px;
+	border-bottom: 1px solid #000 !important;
+}
+.bottom {
+	background: #8D60A2 !important;
+	color: #000000 !important;
+	border-bottom-left-radius: 25px;
+	border-bottom-right-radius: 25px;
+}
+.th, .table th {
+	border-radius: 25px;
+	background: #8D60A2 !important;
+	color: #000000 !important;
+}
+/*---------------Den Header---------------*/
+h1 {
+	color: #8D60A2;
+	font-size: 54px;
+	text-align: center;
+}
+/*---------------Medium Header---------------*/
+
+h2 {
+	color: #000000;
+	font-size: 32px;
+	text-align: center;
+	background: #8D60A2;
+	border-top: 1px solid #000;
+	border-bottom: 1px solid #000;
+}
+/*---------------Smallest Header---------------*/
+h3 {
+	color: #000000 !important;
+	font-size: 14px !important
+}
+/*---------------Topbar---------------*/
+.topbar {
+	background: #8D60A2;
+	border: 1px solid #000;
+	border-top: none !important;
+	color: #000000;
+	border-bottom-left-radius: 25px;
+	border-bottom-right-radius: 25px;
+	font-family: 'Nanum Myeongjo', serif;
+}
+/*---------------Navigation---------------*/
+.navbar {
+	background: #8D60A2;
+	border-bottom: 1px solid #000;
+	font-family: 'Nanum Myeongjo', serif;
+	color: #000000;
+	border-top-left-radius: 25px;
+	border-top-right-radius: 25px;
+}
+/*---------------Navigation text color---------------*/
+.navbar li a {
+	color: #000000 !important;
+}
+/*---------------Navigation Hover Color---------------*/
+.navbar li a:hover {
+	background: rgba(0,0,0,.4) !important;
+}
+/*---------------Breadcrumb---------------*/
+.breadcrumb {
+	background: #c399d1;
+	border: 1px solid #000000;
+}
+/*---------------Breadcrumb Text*/
+.breadcrumb .active {
+	color: #000000;
+}
+/*---------------Main Background Panel---------------*/
+.container.main {
+	background: rgba(255, 217, 249,.6);
+	border: 1px solid #000000;
+	box-shadow: none;
+	border-top-left-radius: 25px;
+	border-top-right-radius: 25px;
+	border-bottom-left-radius: 25px;
+	border-bottom-right-radius: 25px;
+}
+/*---------------Right Side Panel---------------*/
+.col-md-9 {
+	background: none;
+}
+/*---------------Energy, Achievements, Bookmarks, Chatbox---------------*/
+.panel {
+	background: #8D60A2 !important;
+	box-shadow: none !important;
+	border: 1px solid #000000 !important;
+	color: #000000 !important;
+}
+/*---------------Energy Bar BG---------------*/
+.progress {
+	background: #efd9f7;
+	color: #000000 !important;
+}
+/*---------------Energy Bar Text Color---------------*/
+.progress div {
+	color: #000000 !important;
+}
+/*---------------Energy Bar Color---------------*/
+.progress-bar {
+	background: #d5b2cf;
+	color: #000000 !important;
+}
+/*---------------King and Icon Opacity---------------*/
+div#lion_image {
+	opacity: 0.8;
+}
+table#player img {
+	opacity: 0.8;
+}
+/*---------------Circular King and Icon---------------*/
+div#lion_image {
+	border-radius: 50% !important;
+	overflow: hidden;
+	margin-top: 19px;
+	margin-left: 6px;
+}
+table#player img {
+	border-radius: 50% !important;
+	overflow: hidden;
+}
+/*---------------King Info Tables --> Level, Stats, Branch, Territory---------------*/
+/*---------------Panel BG Color---------------*/
+.table {
+	background: #d5b2cf;
+	border: 1px solid #000 !important;
+	border-collapse: separate;
+	border-radius: 25px;
+}
+/*---------------Color behind level, stats, branch, territory---------------*/
+.inner-table .left {
+	background: #c399d1 !important;
+	border-radius: 25px;
+}
+
+/*---------------Right side color of level, stats, branch, territory---------------*/
+.inner-table .right {
+	background: #efd9f7;
+	border-radius: 25px;
+}
+/*---------------Ignore---------------*/
+.right_odd {
+	background: none !important;
+}
+/*---------------Caves and Mounds BG color---------------*/
+.cave-grid,
+.mound-grid {
+	background: #d5b2cf;
+	border: none !important;
+}
+/*---------------Dynasty-Showcase---------------*/
+.feature,
+div.left {
+	background: #d5b2cf;
+	border: none;
+}
+/*---------------FAPA---------------*/
+
+.feature {
+	background: #d5b2cf !important;
+	color: #000000 !important;
+	border: none !important;
+	border-radius: 5px !important;
+}
+/*---------------Editing Details and Account Options---------------*/
+/*---------------Left side color where territory desc., player, avatar url*/
+.table .left {
+	background: none;
+	border-radius: 25px;
+}
+/*---------------Input boxes for player name, avatar URl, input buttons (bookmarks)---------------*/
+input,
+select,
+textarea {
+	background: #efd9f7 !important;
+	border: 1px solid #000 !important;
+	border-color: black;
+	border-radius: 5px;
+	box-shadow: none !important;
+	color: black !important;
+	text-shadow: none !important;
+}
+/*---------------Account Option Boxes -> friend reqs, toggles---------------*/
+.item-header {
+	background: #efd9f7 !important;
+	color: #000000  !important;
+}
+.item {
+	background: #c399d1 !important;
+	border: none !important;
+}
+/*---------------Left corner bottom CSS credit---------------*/
+.credit {
+	background: #8D60A2;
+	color: #000000;
+	padding: 5px;
+	border: 1px solid black;
+	position: fixed;
+	text-align: center;
+	border-radius: 10px;
+	left: 0px;
+	bottom: 0px;
+	width: 185px;
+	height: 30px;
+	overflow: auto;
+}
+/*---------------Active/Online Icon---------------*/
+.member-online {
+    background: #efd9f7;
+    border-radius: 50%;
+    height: 10px;
+    width: 10px;
+    display: inline-block;
+}
+.table .left a {
+    background: #8D60A2;
+	
+}
+.boxcontainer {
+	background: none;
+	height: auto;
+	padding: 0px;
+	display: flex;
+	justify-content: center
+}
+.Box1 {
+	float: left;
+	background: #d5b2cf;
+	color: #000000 ;
+	padding: 0px;
+	border: 1px solid #000;
+	border-radius: 25px;
+	margin: 5px;
+	height: 200px;
+	width: 400px;
+	overflow: hidden;
+}
+.Box1:hover {
+	overflow-y: auto;
+}
