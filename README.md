@@ -1,9 +1,13 @@
-Developer at Ghost Network
+Chief Operating Officer @ [Hosting Haven](https://hostinghaven.us/)
 
-Head developer of Sunset
+Founder @ [Ben Network](https://ben.hostinghaven.us/)
 
-Founder & Owner of Ben Network, Hosting Haven, Modern Nations, and Boo Gaming Network.
+Network Director @ [Boo Gaming Network](https://boogn.xyz/)
+
+Owner @ [Modern Nations](https://modernnations.xyz/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kindkid27&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-HTML, Javascript, Python, 
+Java, HTML, Javascript, MySQL, Node.JS, Next.JS, HaProxy, and more. 
+
+[kindkid27.xyz](https://kindkid27.xyz/)
